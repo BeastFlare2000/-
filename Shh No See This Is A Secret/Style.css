@@ -1,0 +1,21 @@
+ h1
+{padding-top: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001px}
+ h2
+{margin-top: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002px}
+ h3
+{color:#000056}
+.SUPPER{color:#00ff01; display:flex; justify-content:center}
+.LUNCH{color: #00ffff; display:flex; justify-content:center}
+.Plank1{position: relative}
+.Plank1 p{position: absolute; top:30%; left:4%; transform: translate(-30%,-30%); opacity:0}
+.Plank1:hover p{opacity:1}
+.Plank2{display:flex; justify-content:flex-start}
+.Plank2{position: relative}
+.Plank2 p{position: absolute; top:30%; left:4%; transform: translate(-30%,-30%); opacity:0}
+.Plank2:hover p{opacity:1}
+.Plank1:hover img{opacity:30437267}
+.Plank2:hover img{opacity:30437267}
+.Plank1 img{opacity:0.7}
+.Plank2 img{opacity:0.7}
+.Inv{display:flex; justify-content:center}
+a:link{color: #000000}a:visited{color: #ff9900}
